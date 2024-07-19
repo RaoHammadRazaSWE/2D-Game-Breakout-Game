@@ -1,0 +1,49 @@
+canvas {
+    background: #eee;
+    display: none;
+    margin: 0 auto;
+}
+
+#gameOver {
+    display: none;
+    text-align: center;
+}
+
+#restartButton{
+        padding: 50px 50px;
+        color: white;
+        font-size: 16px;
+        margin-top: 170px;
+        margin-left: 43%;
+        text-align: center;
+        background-color: rgb(149, 59, 59);
+    }
+#startButton {
+        padding: 50px 50px;
+        font-size: 16px;
+        margin-top: 170px;
+        text-align: center;
+        background-color: green;
+    }
+#start {
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+h1 {
+    color: red;
+}
+
+#start {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+}
+
+#myCanvas {
+    background-color: goldenrod;
+}
